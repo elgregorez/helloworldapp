@@ -21,12 +21,12 @@ app.get('/', (req, res) => {
     <head>
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>Hello World App</title>
+      <title>Hello World App Update1</title>
       <link rel="stylesheet" href="/styles.css">
     </head>
     <body>
       <div class="container">
-        <h1>Witaj swiecie prosto z ${regionName}!</h1>
+        <h1>Witaj swiecie prosto z ${regionName} po updatecie!</h1>
       </div>
     </body>
     </html>
